@@ -1,1 +1,1 @@
-"# Simple-React-Calculator" 
+Simple-React-Calculator
